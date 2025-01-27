@@ -33,7 +33,7 @@ def get_user_input():
 
 # Step 1: Load the Dataset
 # Update the file path if necessary
-data = pd.read_csv( "/content/Iris.csv")
+data = pd.read_csv( "data/Iris.csv")
 
 # Step 2: Data Exploration
 print("First 5 rows of the dataset:")

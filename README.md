@@ -14,16 +14,27 @@ Repository containing internship tasks
 
   # Project Structure:
   Task1_Iris_Classification/
+  
   ├── Visuals/
+  
   │   └── ClassDistribution.png  
+  
   │   └── ConfusionMatrix.png 
+  
   │   └── Output_Model.png 
+  
   │   └── Relationships_Pairplot.png
+  
   ├── data/
+ 
   │   └── Iris.csv               # Dataset file
+  
   ├── iris_classification.ipynb  # Jupyter Notebook for detailed workflow
+  
   ├── iris_classification.py     # Python script for model training and evaluation
+  
   ├── requirements.txt           # Required Python libraries
+  
   ├── README.md                  # Project documentation
 
   # How to Run the Project:

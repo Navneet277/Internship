@@ -93,7 +93,9 @@ Repository containing internship tasks
       If running in Google Colab, ensure the dataset (Iris.csv) is uploaded manually to the Colab environment.
       Feel free to explore, run, and modify the code! 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Task 2: Unemployment Analysis
+# Task 2: 
+
+Unemployment Analysis
 
 # Task Overview:
 
@@ -112,7 +114,7 @@ Regional Comparison: Analyze unemployment rates across different regions of Indi
 
 Time Series Analysis: Study the trend of unemployment over time.
 
-# Project Structure;
+# Project Structure:
 
 Task_2_Unemployment_Analysis/
 

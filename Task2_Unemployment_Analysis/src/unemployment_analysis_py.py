@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Step 1: Load the Dataset
-data = pd.read_csv("data/Unemployment_in_India.csv")
+data = pd.read_csv("data/Unemployment in India.csv")
 
 # Step 2: Data Cleaning
 # Rename columns for easier access

@@ -60,8 +60,11 @@ Repository containing internship tasks
   The Iris Dataset contains 150 rows with the following features:
 
   SepalLengthCm: Sepal length in cm
+  
   SepalWidthCm: Sepal width in cm
+  
   PetalLengthCm: Petal length in cm
+  
   PetalWidthCm: Petal width in cm
 
   Species: Target variable (Iris-setosa, Iris-versicolor, Iris-virginica)

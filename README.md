@@ -73,13 +73,19 @@ Repository containing internship tasks
   Algorithm Used: Logistic Regression
 
   Performance Metrics:
+ 
   -->  Accuracy
+       
        Confusion Matrix
+       
        Classification Report
 
   Key Visualizations:
+  
   -->  Class distribution
+       
        Pairplot of features
+       
        Confusion matrix heatmap
 
   # Notes for Evaluators

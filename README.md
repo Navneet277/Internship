@@ -74,19 +74,19 @@ Repository containing internship tasks
 
   Performance Metrics:
  
-  -->  Accuracy
+  Accuracy
        
-       Confusion Matrix
+  Confusion Matrix
        
-       Classification Report
+  Classification Report
 
   Key Visualizations:
   
-  -->  Class distribution
+  Class distribution
        
-       Pairplot of features
+  Pairplot of features
        
-       Confusion matrix heatmap
+  Confusion matrix heatmap
 
   # Notes for Evaluators
   --> The file path in the code is set relative to the repository structure for portability.

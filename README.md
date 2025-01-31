@@ -411,6 +411,8 @@ Libraries listed in requirements.txt (install using pip install -r requirements.
 # Future Enhancements:
 
 (1) Add support for additional regression models such as Random Forest or Gradient Boosting.
+
 (2) Create a user-friendly web interface using Flask or Streamlit.
+
 (3) Expand the dataset with more features and records for better accuracy.
 

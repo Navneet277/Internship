@@ -1,5 +1,5 @@
 # Internship
-Repository containing internship tasks
+Repository containing Internship tasks.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Task 1:

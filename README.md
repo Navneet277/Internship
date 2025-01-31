@@ -301,24 +301,22 @@ Ensure the dataset (car_data.csv) is located in the data/ folder. If you don't h
 4. Train the Model
 
 Run the following command to train the model:
-
 python main.py
 
-When prompted:
+*When prompted*:
 
-Select 1 to train the model.
+*Select 1* to train the model.
 
 The trained model will be saved as models/linear_regression_model.pkl.
 
 5. Predict Car Prices
 
 Run the same main.py script to predict car prices:
-
 python main.py
 
-When prompted:
+*When prompted*:
 
-Select 2 for car price prediction.
+*Select 2* for car price prediction.
 
 Enter details such as year of purchase, present price, mileage, fuel type, etc., as prompted.
 
@@ -329,10 +327,9 @@ The predicted car price will be displayed.
 # Training the Model
 
 Run the script:
-
 python main.py
 
-Select 1 to train the model. Example output:
+*Select 1* to train the model. Example output:
 
 Training the model...
 Model trained and saved at: models/linear_regression_model.pkl
@@ -340,10 +337,9 @@ Model trained and saved at: models/linear_regression_model.pkl
 # Predicting Car Prices
 
 Run the script:
-
 python main.py
 
-Select 2 to predict car prices. Enter details as prompted, for example:
+*Select 2* to predict car prices. Enter details as prompted, for example:
 
 Enter the year of purchase (e.g., 2015): 2018
 Enter the present price (in lakhs, e.g., 6.5): 5.5

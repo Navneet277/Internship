@@ -329,9 +329,12 @@ The predicted car price will be displayed.
 Run the script:
 python main.py
 
-*Select 1* to train the model. Example output:
+*Select 1* to train the model. 
+
+Example output:
 
 Training the model...
+
 Model trained and saved at: models/linear_regression_model.pkl
 
 # Predicting Car Prices
@@ -339,14 +342,22 @@ Model trained and saved at: models/linear_regression_model.pkl
 Run the script:
 python main.py
 
-*Select 2* to predict car prices. Enter details as prompted, for example:
+*Select 2* to predict car prices. Enter details as prompted, 
+
+for example:
 
 Enter the year of purchase (e.g., 2015): 2018
+
 Enter the present price (in lakhs, e.g., 6.5): 5.5
+
 Enter the kilometers driven (e.g., 50000): 30000
+
 Enter the fuel type (Petrol/Diesel): Petrol
+
 Enter the seller type (Dealer/Individual): Dealer
+
 Enter the transmission type (Manual/Automatic): Manual
+
 Enter the number of previous owners (e.g., 0): 0
 
 Estimated Selling Price: ₹3.15 Lakhs
